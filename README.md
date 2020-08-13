@@ -4,7 +4,7 @@
 Screenshots /  Скриншоты
 -----------------------------------
 
-| <img height="500" src="https://github.com/muriginvlad/Dicee/raw/master/Screenshots/Screenshots.png" /> |
+| <img height="500" src="https://github.com/muriginvlad/I-Am-Poor/raw/master/Screenshots/Screenshots.png" /> |
 |------------|
 |<p align="center">Основной экран.</p>|
 
